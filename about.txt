@@ -1,0 +1,7 @@
+Blibliotecas usadas para criar a api rest
+-cors
+-fastify
+-tsx
+-dotenvc
+-@types/cors
+-@fastify/cors\
